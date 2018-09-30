@@ -1,5 +1,7 @@
 #!/bin/bash
 
+figlet shitstick
+
 
 trap 'printf "\n";stop' 2
 
